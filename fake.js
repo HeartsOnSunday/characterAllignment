@@ -28,6 +28,10 @@ function generateCharacter() {
   
   document.getElementById("character").innerHTML = ""+charname[cpuChoice];
   
+  console.log(randomize); 
+  
+  
+  
   
   //document.getElementById("charpic").innerHTML = "<img src='"+picsrc[cpuChoice]+"'>";
   
